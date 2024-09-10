@@ -128,6 +128,7 @@ Your instructional team will provide support during classes and office hours. Yo
 
 * GitHub README includes either examples of the application, or the results and a summary of the analysis (3 points).
 
+
 #### Analysis and Conclusion (30 points)
 
 * Findings are strongly supported with numbers and visualizations (10 points).
