@@ -54,7 +54,7 @@ Key takeaways from this analysis include:
 ### Example Output
 After running the model, you'll see results like:
 
-- **Churn Prediction Accuracy**: 85%
+- **Churn Prediction Accuracy**: 94%
 - **Confusion Matrix**: Demonstrates the true positive and false positive rates for churn prediction.
   
 Here are key insights:
